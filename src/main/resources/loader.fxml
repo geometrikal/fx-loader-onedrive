@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.geometry.Insets?>
+
+<VBox alignment="CENTER_LEFT" spacing="14" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1" fx:controller="loader.Controller" minWidth="300">
+    <padding>
+        <Insets topRightBottomLeft="14"/>
+    </padding>
+    <HBox GridPane.rowIndex="0">
+        <Label>ParticleTrieur</Label>
+    </HBox>
+    <Label fx:id="labelDownload">Downloading file...</Label>
+    <ProgressBar fx:id="progressBarDownload" GridPane.rowIndex="1" maxWidth="Infinity"/>
+</VBox>

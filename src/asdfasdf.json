@@ -1,0 +1,122 @@
+{
+  "@odata.context": "https://api.onedrive.com/v1.0/$metadata#shares('u%21aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaVFNN3NWSXY3ZmFsdGRNVmhvOV9SZm5LU2dxYlE%3D')/items/$entity",
+  "createdBy": {
+    "application": {
+      "displayName": "OneDrive website",
+      "id": "44048800"
+    },
+    "user": {
+      "displayName": "Ross Marchant",
+      "id": "dab7bf48c5ee0c24"
+    }
+  },
+  "createdDateTime": "2020-11-07T23:51:54.587Z",
+  "cTag": "adDpEQUI3QkY0OEM1RUUwQzI0ITM3MTY2MC42Mzc0MDM5MDA2Mzg3MDAwMDA",
+  "eTag": "aREFCN0JGNDhDNUVFMEMyNCEzNzE2NjAuMQ",
+  "id": "DAB7BF48C5EE0C24!371660",
+  "lastModifiedBy": {
+    "application": {
+      "displayName": "OneDrive website",
+      "id": "44048800"
+    },
+    "user": {
+      "displayName": "Ross Marchant",
+      "id": "dab7bf48c5ee0c24"
+    }
+  },
+  "lastModifiedDateTime": "2020-11-07T23:54:23.87Z",
+  "name": "Test",
+  "parentReference": {
+    "driveId": "dab7bf48c5ee0c24",
+    "driveType": "personal"
+  },
+  "size": 19081352,
+  "webUrl": "https://1drv.ms/f/s!AiQM7sVIv7faltdMVho9_RfnKSgqbQ",
+  "fileSystemInfo": {
+    "createdDateTime": "2020-11-07T23:51:54.586Z",
+    "lastModifiedDateTime": "2020-11-07T23:51:54.586Z"
+  },
+  "folder": {
+    "childCount": 1,
+    "folderView": {
+      "viewType": "thumbnails",
+      "sortBy": "name",
+      "sortOrder": "ascending"
+    },
+    "folderType": "document"
+  },
+  "reactions": {
+    "commentCount": 0
+  },
+  "shared": {
+    "effectiveRoles": [
+      "write"
+    ],
+    "owner": {
+      "user": {
+        "displayName": "Ross Marchant",
+        "id": "dab7bf48c5ee0c24"
+      }
+    },
+    "scope": "users",
+    "sharedDateTime": "2020-11-07T23:53:54.4106497Z"
+  },
+  "children@odata.context": "https://api.onedrive.com/v1.0/$metadata#shares('u%21aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaVFNN3NWSXY3ZmFsdGRNVmhvOV9SZm5LU2dxYlE%3D')/items('DAB7BF48C5EE0C24%21371660')/children",
+  "children@odata.count": 1,
+  "children": [
+    {
+      "createdBy": {
+        "application": {
+          "displayName": "OneDrive website",
+          "id": "44048800"
+        },
+        "user": {
+          "displayName": "Ross Marchant",
+          "id": "dab7bf48c5ee0c24"
+        }
+      },
+      "createdDateTime": "2020-11-07T23:53:24.85Z",
+      "cTag": "adDpEQUI3QkY0OEM1RUUwQzI0ITM3MTY2MS42Mzc0MDM5MDA2Mzg3MDAwMDA",
+      "eTag": "aREFCN0JGNDhDNUVFMEMyNCEzNzE2NjEuMA",
+      "id": "DAB7BF48C5EE0C24!371661",
+      "lastModifiedBy": {
+        "application": {
+          "displayName": "OneDrive website",
+          "id": "44048800"
+        },
+        "user": {
+          "displayName": "Ross Marchant",
+          "id": "dab7bf48c5ee0c24"
+        }
+      },
+      "lastModifiedDateTime": "2020-11-07T23:54:23.87Z",
+      "name": "intact",
+      "parentReference": {
+        "driveId": "dab7bf48c5ee0c24",
+        "driveType": "personal",
+        "id": "DAB7BF48C5EE0C24!371660",
+        "name": "Test",
+        "path": "/shares/s!AiQM7sVIv7faltdMVho9_RfnKSgqbQ/items/DAB7BF48C5EE0C24!371660:",
+        "shareId": "s!AiQM7sVIv7faltdMVho9_RfnKSgqbQ"
+      },
+      "size": 19081352,
+      "webUrl": "https://1drv.ms/f/s!AiQM7sVIv7faltdNVho9_RfnKSgqbQ",
+      "fileSystemInfo": {
+        "createdDateTime": "2020-11-07T23:53:24.85Z",
+        "lastModifiedDateTime": "2020-11-07T23:53:24.85Z"
+      },
+      "folder": {
+        "childCount": 8,
+        "folderView": {
+          "viewType": "thumbnails",
+          "sortBy": "name",
+          "sortOrder": "ascending"
+        },
+        "folderType": "document"
+      },
+      "reactions": {
+        "commentCount": 0
+      }
+    }
+  ]
+}
